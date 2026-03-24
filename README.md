@@ -199,8 +199,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Built by **A B**
-AI Intern | ML • DL • GenAI • Systems
+Built by **Bhavin Agheda**
 
 ---
 
